@@ -6,5 +6,16 @@
                  name="Phasmophobia Help Page"
                  start-page="Home.md">
 
-    <toc-element topic="Home.md"/>
+    <toc-element topic="Home.md">
+        <toc-element topic="Evidence-Collection-Methods.md"/>
+    </toc-element>
+    <toc-element topic="Ghost-Guide.md">
+        <toc-element topic="Ghost-Types.md">
+            <toc-element topic="Spirit.md"/>
+            <toc-element topic="Wraith.md"/>
+            <toc-element topic="Phantom.md"/>
+            <toc-element topic="Poltergeist.md"/>
+            <toc-element topic="Banshee.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>

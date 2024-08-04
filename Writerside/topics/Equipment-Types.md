@@ -1,0 +1,3 @@
+# Equipment Types
+
+Start typing here...

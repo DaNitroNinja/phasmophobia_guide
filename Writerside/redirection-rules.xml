@@ -10,4 +10,8 @@
         <description>Created after removal of "Reference" from Phasmophobia Help Page</description>
         <accepts>reference.html</accepts>
     </rule>
+    <rule id="7dbd8028">
+        <description><![CDATA[Created after removal of "<Spirit.md>" from Phasmophobia Help Page]]></description>
+        <accepts>Spirit.html</accepts>
+    </rule>
 </rules>
