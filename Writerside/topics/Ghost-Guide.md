@@ -24,7 +24,7 @@
     - Each type has distinct traits and evidence combinations.
 
 
-> **Info**: Please note that the lists of evidence collection methods and ghost types are NOT exhausitve and that you should go to [Evidence Collection Methods]() or [Ghost Types]() respectively.
+> **Info**: Please note that the lists of evidence collection methods and ghost types are NOT exhaustive and that you should go to [Evidence Collection Methods](Evidence-Collection-Methods.md) or [Ghost Types](Ghost-Types.md) respectively.
 
 
 
